@@ -167,4 +167,14 @@ Now to the Root Flag. I look for all access rights I have in the FTP enviroment.
 
 This is the complete output
 
-I am not well-versed, so I looked at the official documentation, and besides the file where I found the user.txt, there are no files that I have any rights to. Upcoming for me is therefore to learn how to read such outputs. I do not know what that means except r for read, w for write and x for execut.
+I am not well-versed, so I looked at the official documentation, and besides the file where I found the user.txt, there are no files that I have any rights to. Upcoming for me is therefore to learn how to read such outputs. I do not know what that means except r for read, w for write, and x for execute.
+
+The last option I have is ssh. I have a username and a password, so I log in, and it actually works. I run **ls** and **ls -a**, and I have the same files as in the FTP.
+
+I then run **sudo ls** to see if I have sudo rights, and I type in the password.
+
+> Nathan is not in the sudoers file.  This incident will be reported.
+
+So I do not have sudo rights, else there are 4 zombie processes and a bunch of updates.
+Through the hints I know I have to run linPeas. I always forget, downloading the tool is the hardest part.
+
