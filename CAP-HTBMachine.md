@@ -361,3 +361,10 @@ To tackle this issues I run **ls -la** to see what access rights I have, and the
 >root@cap:/root# cat root.txt
 
 I then parsed the content into the HTB field and [tada](https://labs.hackthebox.com/achievement/machine/2038537/351)
+
+---
+
+### Afterthoughts
+
+Seeing how I did not land in root, like in the root directory, shows that I indeed got one layer below. How true that is in the end can be speculated, but I got to the root of everything and did not end up in a directory called root.
+How it would have worked with the original approach of going for os.setuid(0) I can not tell, as I did not do it, but a great experience nonetheless.
