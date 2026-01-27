@@ -4,9 +4,15 @@ Before starting an overview over steps I want to take.
 If needed, I adapt NMAP for UDP.
 
 --- 
+**Basic information and goal**
+
+
 The IP address is **10.129.98.103**
+
 I want the User and root flag
 
+---
+### Write-up
 
 I run nmap to see open ports: **nmap -sC -sV 10.129.98.103**
 > Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-25 12:15 CST
