@@ -102,12 +102,19 @@ Capabilities and permissions (Linux)
 ## Repository Structure (example)
 .
 ├── HTB/
+
 │   ├── machines/
+
 │   └── challenges/
+
 ├── web-security/
+
 ├── networking/
+
 ├── tools/
+
 ├── concepts/
+
 └── README.md
 
 
