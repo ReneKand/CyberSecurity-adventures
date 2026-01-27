@@ -1,10 +1,10 @@
 ## Cyber Security Journals
 
-This repository contains my personal cybersecurity journals and technical notes, documenting hands-on learning, experimentation, and reflection across offensive and defensive security topics.
+This repository contains my personal cybersecurity journals and technical notes, documenting different adventures I take into either offensive or deffensive cyber security. 
 
 The goal is not to provide step-by-step exploitation guides, but to track understanding, methodology, and lessons learned while working through platforms, labs, tools, and real-world concepts.
 
-Think of this as a lab notebook, not a tutorial factory.
+Think of this as a lab notebook.
 
 ## Purpose
 
@@ -16,22 +16,24 @@ Practice clear technical writing and reflection
 
 Build a portfolio that focuses on thinking, not just tool output
 
-📚 Content Overview
-🧠 Hack The Box (HTB)
+* Content Overview
+* Hack The Box (HTB)
 
-Write-ups and journals based on completed machines and challenges.
+Write-ups and journals based on completed machines, challenges, or other things I believe are interesting.
 
-Focus areas:
+**Focus areas:**
 
-Enumeration methodology
++Enumeration methodology
 
-Attack paths and decision-making
++Attack paths and decision-making
 
-Mistakes, dead ends, and corrections
++Mistakes, dead ends, and corrections
 
-Key takeaways (not copy-paste exploits)
++Key takeaways (not copy-paste exploits)
 
-Credentials, flags, and sensitive details are redacted or generalized where appropriate.
++Credentials, flags, and sensitive details are redacted or generalized where appropriate.
+
++Custom code adaptations of existing repos
 
 ## Web Security
 
@@ -77,11 +79,13 @@ metasploit
 
 tcpdump
 
+linPeas
+
 htop, strace, etc.
 
 Focus is on why and when to use tools—not just how.
 
-🧾 Concepts & Theory
+## Concepts & Theory
 
 Short write-ups on security fundamentals, such as:
 
@@ -95,9 +99,9 @@ Privilege boundaries
 
 Capabilities and permissions (Linux)
 
-🗂️ Repository Structure (example)
+## Repository Structure (example)
 .
-├── hackthebox/
+├── HTB/
 │   ├── machines/
 │   └── challenges/
 ├── web-security/
@@ -107,9 +111,9 @@ Capabilities and permissions (Linux)
 └── README.md
 
 
-Structure may evolve as new topics are added.
+Structure may evolve as new topics are added. Some are not even there yet.
 
-⚠️ Disclaimer
+## Disclaimer
 
 This repository is for educational purposes only
 
@@ -119,7 +123,7 @@ Targets are limited to labs, intentionally vulnerable systems, or owned environm
 
 Any resemblance to real-world production systems is accidental and ill-advised
 
-📈 Ongoing Work
+## Ongoing Work
 
 This repository is actively evolving.
 Expect:
@@ -130,9 +134,9 @@ Iterative improvements
 
 Rewrites as understanding deepens
 
-That’s intentional.
+That’s intentional and part of this repo.
 
-👤 About
+## About
 
-Maintained by René Kandziora
+Maintained by Elijah
 Focus areas: Cyber Security, Software Engineering, and Applied IT Systems
