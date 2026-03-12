@@ -20,4 +20,8 @@ Short write-ups on security fundamentals, including:
 - Privilege boundaries — what separates user from root, unprivileged from privileged, and how those boundaries get crossed
 - Linux capabilities and permissions — how the permission model works and where it breaks down
 
+The directory also contains:
+
+- `Articles/` — analyses of real-world security incidents, notable CVEs, and publicly documented breaches. These sit here rather than in `web-security/` because they are primarily about understanding the conditions, decisions, and systemic failures behind an event — conceptual analysis more than hands-on exploitation.
+
 Entries are kept concise. The goal is a clear mental model, not an exhaustive reference.

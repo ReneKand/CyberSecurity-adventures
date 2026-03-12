@@ -1,6 +1,6 @@
 # Articles
 
-This directory contains analyses of real-world security incidents, notable CVEs, and publicly documented breaches related to web and software security.
+This directory contains analyses of real-world security incidents, notable CVEs, and publicly documented breaches across web, software, and infrastructure security.
 
 ## Why this directory exists
 

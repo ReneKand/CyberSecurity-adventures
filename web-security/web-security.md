@@ -12,9 +12,8 @@ Web vulnerabilities are well-documented in the abstract, but understanding them 
 
 ## What to expect
 
-The directory is split into two subdirectories:
+The directory contains one subdirectory:
 
-- `Articles/` — analysis of real-world security incidents, breaches, and notable vulnerabilities found in production systems. The goal is to dissect the what, why, and how of each event.
 - `Hacks/` — lab-based write-ups and experiments with common web vulnerabilities such as SQL injection, XSS, authentication flaws, and input validation issues.
 
-Both are grounded in the same question: not just what the vulnerability is, but why it exists and what conditions allow it to be exploited.
+The focus is on the practical side: finding, exploiting, and understanding web vulnerabilities in controlled environments. Real-world incident analysis lives in `concepts/Articles/`.
