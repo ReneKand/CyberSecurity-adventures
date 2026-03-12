@@ -1,6 +1,6 @@
 ## Cyber Security Journals
 
-This repository contains my personal cybersecurity journals and technical notes, documenting different adventures I take into either offensive or deffensive cyber security. 
+This repository contains my personal cybersecurity journals and technical notes, documenting different adventures I take into either offensive or defensive cybersecurity. 
 
 The goal is not to provide step-by-step exploitation guides, but to track understanding, methodology, and lessons learned while working through platforms, labs, tools, and real-world concepts.
 
@@ -23,17 +23,17 @@ Write-ups and journals based on completed machines, challenges, or other things 
 
 **Focus areas:**
 
-+Enumeration methodology
++ Enumeration methodology
 
-+Attack paths and decision-making
++ Attack paths and decision-making
 
-+Mistakes, dead ends, and corrections
++ Mistakes, dead ends, and corrections
 
-+Key takeaways (not copy-paste exploits)
++ Key takeaways (not copy-paste exploits)
 
-+Credentials, flags, and sensitive details are redacted or generalized where appropriate.
++ Credentials, flags, and sensitive details are redacted or generalized where appropriate.
 
-+Custom code adaptations of existing repos
++ Custom code adaptations of existing repos
 
 ## Web Security
 
@@ -98,6 +98,8 @@ Defense-in-depth
 Privilege boundaries
 
 Capabilities and permissions (Linux)
+
+Articles/Documenatary recaps
 
 ## Repository Structure (example)
 
