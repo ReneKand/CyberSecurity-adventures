@@ -100,16 +100,17 @@ Privilege boundaries
 Capabilities and permissions (Linux)
 
 ## Repository Structure (example)
-.
-├── HTB/
-│   ├── machines/
-│   └── challenges/
-├── web-security/
-├── networking/
-├── tools/
-├── concepts/
-└── README.md
 
+```.
+├──  HTB/
+│   ├──  machines/
+│   └──  challenges/
+├──  web-security/
+├──  networking/
+├──  tools/
+├──  concepts/
+└──  README.md
+```
 
 Structure may evolve as new topics are added. Some are not even there yet.
 
